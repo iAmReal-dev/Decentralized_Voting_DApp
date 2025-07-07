@@ -78,7 +78,7 @@ export default function Header({ account, onConnect, onDisconnect }) {
                   FAQ
                 </Link>
                 <a
-                  href="https://github.com/iAmReal-dev/Brainwave_Matrix_Intern"
+                  href="https://github.com/iAmReal-dev/Decentralized_Voting_DApp"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white hover:text-gray-200 transition-all duration-200 px-3 py-2"
